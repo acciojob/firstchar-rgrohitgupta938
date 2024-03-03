@@ -1,6 +1,6 @@
 function firstChar(text) {
   // your code here
-	for  (let str of text) {
+	for (let str of text) {
 		if(str!= " "){
 			return str
 		}
